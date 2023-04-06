@@ -1,0 +1,1 @@
+SELECT * FROM kindergarten2000.calculations_table;
